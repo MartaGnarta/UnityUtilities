@@ -3,11 +3,6 @@ title: Home
 layout: home
 ---
 
----
-title: Prueba
-layout: home
----
-
 Test test test Test test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test test
 
 ----
