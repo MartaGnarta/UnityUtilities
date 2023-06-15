@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+layout: prueba
 ---
 
 Test test test Test test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test testTest test test
