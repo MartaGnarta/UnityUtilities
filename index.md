@@ -1,5 +1,9 @@
 ---
 title: Home
+layout: home
+---
+
+---
 title: Prueba
 layout: home
 ---
